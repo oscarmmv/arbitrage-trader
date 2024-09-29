@@ -46,5 +46,5 @@ def scrape_nfl():
 
 
 scrape_ufc_mma()
-# scrape_nfl()
+#scrape_nfl()
 

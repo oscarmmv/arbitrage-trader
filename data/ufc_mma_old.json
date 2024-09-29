@@ -1,463 +1,361 @@
 [{
-    "Brad Tavares": {
-        "BetRivers": "-186",
-        "Caesars": "-190",
+    "Stephen Thompson": {
+        "BetRivers": "-180",
+        "Caesars": null,
         "PowerPlay": "-175",
-        "bet365": "-175",
-        "Sports Interaction": "-185"
+        "bet365": "-175"
     },
-    "Junyong Park": {
-        "BetRivers": "+150",
-        "Caesars": "+160",
+    "Joaquin Buckley": {
+        "BetRivers": "+143",
+        "Caesars": null,
         "PowerPlay": "+150",
-        "bet365": "+140",
-        "Sports Interaction": "+150"
+        "bet365": "+140"
     }
 },
 {
-    "Mohammed Usman": {
-        "BetRivers": "-150",
-        "Caesars": "-150",
-        "PowerPlay": "-150",
-        "bet365": "-175",
-        "Sports Interaction": "-150"
+    "Daria Zhelezniakova": {
+        "BetRivers": "-250",
+        "Caesars": "-260",
+        "PowerPlay": null,
+        "bet365": null
     },
-    "Thomas Petersen": {
-        "BetRivers": "+120",
-        "Caesars": "+125",
-        "PowerPlay": "+125",
-        "bet365": "+138",
-        "Sports Interaction": "+125"
+    "Ailin Perez": {
+        "BetRivers": "+200",
+        "Caesars": "+210",
+        "PowerPlay": null,
+        "bet365": null
     }
 },
 {
-    "Dricus Du Plessis": {
-        "BetRivers": "-141",
+    "Fares Ziam": {
+        "BetRivers": "-112",
+        "Caesars": "-115",
+        "PowerPlay": "-110",
+        "bet365": "-118",
+        "Sports Interaction": "-115"
+    },
+    "Matt Frevola": {
+        "BetRivers": "-112",
+        "Caesars": "-105",
+        "PowerPlay": "-110",
+        "bet365": "-110",
+        "Sports Interaction": "-105"
+    }
+},
+{
+    "Raquel Pennington": {
+        "BetRivers": "-180",
         "Caesars": null,
-        "PowerPlay": "-138",
-        "bet365": "-161"
+        "PowerPlay": null,
+        "bet365": null
     },
-    "Israel Adesanya": {
-        "BetRivers": "+114",
+    "Julianna Pena": {
+        "BetRivers": "+143",
         "Caesars": null,
-        "PowerPlay": "+110",
-        "bet365": "+125"
+        "PowerPlay": null,
+        "bet365": null
     }
 },
 {
-    "Modestas Bukauskas": {
-        "BetRivers": "-143",
-        "Caesars": "-150",
-        "PowerPlay": "-150",
-        "bet365": "-149"
+    "Charles Oliveira": {
+        "BetRivers": "-265",
+        "Caesars": null,
+        "PowerPlay": "-250",
+        "bet365": null
     },
-    "Marcin Prachnio": {
-        "BetRivers": "+116",
-        "Caesars": "+125",
-        "PowerPlay": "+125",
-        "bet365": "+115"
+    "Michael Chandler": {
+        "BetRivers": "+205",
+        "Caesars": null,
+        "PowerPlay": "+200",
+        "bet365": null
     }
 },
 {
-    "Oban Elliott": {
-        "BetRivers": "-167",
-        "Caesars": "-165",
-        "PowerPlay": "-150",
-        "bet365": "-161"
+    "Jose Aldo": {
+        "BetRivers": "-175",
+        "Caesars": "-160",
+        "PowerPlay": "-160",
+        "bet365": "-167"
     },
-    "Preston Parsons": {
-        "BetRivers": "+133",
-        "Caesars": "+140",
-        "PowerPlay": "+125",
-        "bet365": "+125"
+    "Mario Bautista": {
+        "BetRivers": "+138",
+        "Caesars": "+135",
+        "PowerPlay": "+130",
+        "bet365": "+130"
     }
 },
 {
-    "Miranda Maverick": {
+    "William Gomis": {
+        "BetRivers": "-265",
+        "Caesars": "-265",
+        "PowerPlay": "-250",
+        "bet365": "-278",
+        "Sports Interaction": "-275"
+    },
+    "Joanderson Brito": {
+        "BetRivers": "+205",
+        "Caesars": "+210",
+        "PowerPlay": "+200",
+        "bet365": "+210",
+        "Sports Interaction": "+210"
+    }
+},
+{
+    "Nora Cornolle": {
         "BetRivers": "-195",
-        "Caesars": "-210",
-        "PowerPlay": "-200",
-        "bet365": "-200",
-        "Sports Interaction": "-210"
+        "Caesars": null,
+        "PowerPlay": null,
+        "bet365": null,
+        "Sports Interaction": "-165"
     },
-    "Dione Barbosa": {
+    "Jacqueline Cavalcanti": {
         "BetRivers": "+155",
-        "Caesars": "+175",
-        "PowerPlay": "+170",
-        "bet365": "+163",
-        "Sports Interaction": "+175"
+        "Caesars": null,
+        "PowerPlay": null,
+        "bet365": null,
+        "Sports Interaction": "+135"
     }
 },
 {
-    "Brian Kelleher": {
+    "Jon Jones": {
+        "BetRivers": "-480",
+        "Caesars": null,
+        "PowerPlay": "-450",
+        "bet365": null,
+        "Sports Interaction": "-500"
+    },
+    "Stipe Miocic": {
+        "BetRivers": "+350",
+        "Caesars": null,
+        "PowerPlay": "+350",
+        "bet365": null,
+        "Sports Interaction": "+360"
+    }
+},
+{
+    "Oumar Sy": {
+        "BetRivers": null,
+        "Caesars": "-480",
+        "PowerPlay": "-450",
+        "bet365": "-500",
+        "Sports Interaction": "-500"
+    },
+    "Da Woon Jung": {
+        "BetRivers": null,
+        "Caesars": "+360",
+        "PowerPlay": "+350",
+        "bet365": "+333",
+        "Sports Interaction": "+360"
+    }
+},
+{
+    "Magomed Ankalaev": {
+        "BetRivers": null,
+        "Caesars": null,
+        "PowerPlay": "-300",
+        "bet365": null
+    },
+    "Aleksandar Rakic": {
+        "BetRivers": null,
+        "Caesars": null,
+        "PowerPlay": "+240",
+        "bet365": null
+    }
+},
+{
+    "Nassourdine Imavov": {
         "BetRivers": "-230",
-        "Caesars": "-240",
+        "Caesars": "-230",
         "PowerPlay": "-225",
-        "bet365": "-250",
+        "bet365": "-227",
         "Sports Interaction": "-250"
     },
-    "Cody Gibson": {
+    "Brendan Allen": {
         "BetRivers": "+180",
-        "Caesars": "+200",
+        "Caesars": "+190",
         "PowerPlay": "+187",
-        "bet365": "+188",
-        "Sports Interaction": "+190"
+        "bet365": "+175",
+        "Sports Interaction": "+195"
     }
 },
 {
-    "Doo Ho Choi": {
-        "BetRivers": "-175",
-        "Caesars": "-175",
-        "PowerPlay": null,
-        "bet365": null,
-        "Sports Interaction": "-175"
-    },
-    "Bill Algeo": {
-        "BetRivers": "+138",
-        "Caesars": "+145",
-        "PowerPlay": null,
-        "bet365": null,
-        "Sports Interaction": "+145"
-    }
-},
-{
-    "Nathaniel Wood": {
-        "BetRivers": "-500",
-        "Caesars": "-450",
-        "PowerPlay": "-400",
-        "bet365": "-455"
-    },
-    "Daniel Pineda": {
-        "BetRivers": "+360",
-        "Caesars": "+350",
-        "PowerPlay": "+300",
-        "bet365": "+300"
-    }
-},
-{
-    "Michael Chiesa": {
-        "BetRivers": "-480",
-        "Caesars": "-420",
-        "PowerPlay": "-400",
-        "bet365": "-345"
-    },
-    "Tony Ferguson": {
-        "BetRivers": "+350",
-        "Caesars": "+320",
-        "PowerPlay": "+300",
-        "bet365": "+260"
-    }
-},
-{
-    "Luana Carolina": {
-        "BetRivers": "-127",
-        "Caesars": "-125",
-        "PowerPlay": "-125",
-        "bet365": "-125",
-        "Sports Interaction": "-120"
-    },
-    "Lucie Pudilova": {
-        "BetRivers": "+102",
-        "Caesars": "+105",
-        "PowerPlay": "+100",
-        "bet365": "+100",
-        "Sports Interaction": "+100"
-    }
-},
-{
-    "Muhammed Mokaev": {
-        "BetRivers": "-118",
-        "Caesars": "-110",
-        "PowerPlay": "-125",
-        "bet365": "-125"
-    },
-    "Manel Kape": {
-        "BetRivers": "-105",
-        "Caesars": "-110",
-        "PowerPlay": "+100",
-        "bet365": "+100"
-    }
-},
-{
-    "Shauna Bannon": {
-        "BetRivers": "-129",
-        "Caesars": "-135",
-        "PowerPlay": "-138",
-        "bet365": "-137"
-    },
-    "Ravena Oliveira": {
-        "BetRivers": "+104",
-        "Caesars": "+115",
-        "PowerPlay": "+110",
-        "bet365": "+110"
-    }
-},
-{
-    "Mackenzie Dern": {
-        "BetRivers": "-112",
-        "Caesars": null,
-        "PowerPlay": "-125",
-        "bet365": "-125"
-    },
-    "Lupita Godinez": {
-        "BetRivers": "-112",
-        "Caesars": null,
-        "PowerPlay": "+100",
-        "bet365": "-110"
-    }
-},
-{
-    "Steve Garcia": {
-        "BetRivers": "-148",
-        "Caesars": null,
-        "PowerPlay": "-138",
-        "bet365": "-149",
-        "Sports Interaction": "-145"
-    },
-    "Seungwoo Choi": {
-        "BetRivers": "+118",
-        "Caesars": null,
-        "PowerPlay": "+110",
-        "bet365": "+115",
-        "Sports Interaction": "+120"
-    }
-},
-{
-    "Marlon Vera": {
+    "Germaine De Randamie": {
         "BetRivers": null,
-        "Caesars": "-155",
-        "PowerPlay": "-150",
-        "bet365": "-149"
+        "Caesars": null,
+        "PowerPlay": "-160",
+        "bet365": null
     },
-    "Deiveson Figeuredo": {
+    "Nora Cornolle": {
         "BetRivers": null,
-        "Caesars": "+130",
-        "PowerPlay": "+125",
-        "bet365": "+120"
+        "Caesars": null,
+        "PowerPlay": "+130",
+        "bet365": null
     }
 },
 {
-    "Arnold Allen": {
-        "BetRivers": "-265",
-        "Caesars": "-280",
+    "Renato Moicano": {
+        "BetRivers": "-275",
+        "Caesars": "-270",
         "PowerPlay": "-250",
-        "bet365": "-278"
+        "bet365": "-278",
+        "Sports Interaction": "-275"
     },
-    "Giga Chikadze": {
-        "BetRivers": "+205",
-        "Caesars": "+230",
+    "Benoit Saint Denis": {
+        "BetRivers": "+210",
+        "Caesars": "+220",
         "PowerPlay": "+200",
-        "bet365": "+200"
+        "bet365": "+200",
+        "Sports Interaction": "+210"
     }
 },
 {
-    "Kurt Holobaugh": {
-        "BetRivers": "-150",
-        "Caesars": "-150",
+    "Roman Dolidze": {
+        "BetRivers": "-165",
+        "Caesars": null,
         "PowerPlay": "-160",
-        "bet365": "-149",
-        "Sports Interaction": "-150"
+        "bet365": "-161"
     },
-    "Kaynan Kruschewsky": {
-        "BetRivers": "+120",
-        "Caesars": "+125",
+    "Kevin Holland": {
+        "BetRivers": "+132",
+        "Caesars": null,
         "PowerPlay": "+130",
-        "bet365": "+115",
-        "Sports Interaction": "+125"
+        "bet365": "+125"
     }
 },
 {
-    "Molly Mccann": {
-        "BetRivers": "-295",
-        "Caesars": "-280",
-        "PowerPlay": "-275",
-        "bet365": "-278"
-    },
-    "Bruna Brasil": {
-        "BetRivers": "+225",
-        "Caesars": "+230",
-        "PowerPlay": "+225",
-        "bet365": "+210"
-    }
-},
-{
-    "Amanda Lemos": {
-        "BetRivers": "-141",
-        "Caesars": "-150",
+    "Daniel Barez": {
+        "BetRivers": "-132",
+        "Caesars": null,
         "PowerPlay": "-138",
-        "bet365": "-143",
-        "Sports Interaction": "-145"
-    },
-    "Virna Jandiroba": {
-        "BetRivers": "+114",
-        "Caesars": "+125",
-        "PowerPlay": "+110",
-        "bet365": "+110",
-        "Sports Interaction": "+120"
-    }
-},
-{
-    "Loik Radzhabov": {
-        "BetRivers": "-148",
-        "Caesars": "-155",
-        "PowerPlay": "-160",
-        "bet365": "-161",
-        "Sports Interaction": "-150"
-    },
-    "Trey Ogden": {
-        "BetRivers": "+118",
-        "Caesars": "+130",
-        "PowerPlay": "+130",
-        "bet365": "+125",
-        "Sports Interaction": "+125"
-    }
-},
-{
-    "Vicente Luque": {
-        "BetRivers": null,
-        "Caesars": "-500",
-        "PowerPlay": null,
-        "bet365": "-500"
-    },
-    "Nick Diaz": {
-        "BetRivers": null,
-        "Caesars": "+380",
-        "PowerPlay": null,
-        "bet365": "+333"
-    }
-},
-{
-    "Cody Durden": {
-        "BetRivers": "-124",
-        "Caesars": "-120",
-        "PowerPlay": "-125",
-        "bet365": "-125",
+        "bet365": "-137",
         "Sports Interaction": "-125"
     },
-    "Bruno Silva": {
-        "BetRivers": "+100",
-        "Caesars": "+100",
-        "PowerPlay": "+100",
-        "bet365": "+100",
+    "Victor Altamirano": {
+        "BetRivers": "+107",
+        "Caesars": null,
+        "PowerPlay": "+110",
+        "bet365": "+110",
         "Sports Interaction": "+105"
     }
 },
 {
-    "Tom Aspinall": {
-        "BetRivers": "-278",
-        "Caesars": "-290",
-        "PowerPlay": "-300",
-        "bet365": "-278",
-        "Sports Interaction": "-300"
+    "Morgan Charriere": {
+        "BetRivers": "-590",
+        "Caesars": "-550",
+        "PowerPlay": "-550",
+        "bet365": "-588",
+        "Sports Interaction": "-550"
     },
-    "Curtis Blaydes": {
-        "BetRivers": "+215",
-        "Caesars": "+235",
-        "PowerPlay": "+240",
-        "bet365": "+210",
-        "Sports Interaction": "+230"
+    "Gabriel Miranda": {
+        "BetRivers": "+420",
+        "Caesars": "+400",
+        "PowerPlay": "+400",
+        "bet365": "+400",
+        "Sports Interaction": "+400"
     }
 },
 {
-    "Mick Parkin": {
-        "BetRivers": "-225",
-        "Caesars": "-205",
-        "PowerPlay": "-200",
-        "bet365": null
+    "Kevin Jousset": {
+        "BetRivers": "-157",
+        "Caesars": "-160",
+        "PowerPlay": "-160",
+        "bet365": "-161",
+        "Sports Interaction": "-165"
     },
-    "Lukasz Brzeski": {
-        "BetRivers": "+175",
-        "Caesars": "+170",
-        "PowerPlay": "+170",
-        "bet365": null
+    "Bryan Battle": {
+        "BetRivers": "+125",
+        "Caesars": "+135",
+        "PowerPlay": "+130",
+        "bet365": "+125",
+        "Sports Interaction": "+135"
     }
 },
 {
-    "Sam Patterson": {
-        "BetRivers": "-335",
-        "Caesars": "-350",
-        "PowerPlay": "-333",
-        "bet365": "-345"
-    },
-    "Kiefer Crosbie": {
-        "BetRivers": "+250",
-        "Caesars": "+275",
-        "PowerPlay": "+250",
-        "bet365": "+250"
-    }
-},
-{
-    "Bobby Green": {
-        "BetRivers": "-137",
+    "Ion Cutelaba": {
+        "BetRivers": "-132",
         "Caesars": "-130",
-        "PowerPlay": "-138",
-        "bet365": "-137",
-        "Sports Interaction": "-135"
-    },
-    "Paddy Pimblett": {
-        "BetRivers": "+112",
-        "Caesars": "+110",
-        "PowerPlay": "+110",
-        "bet365": "+110",
-        "Sports Interaction": "+110"
-    }
-},
-{
-    "Jeongyeong Lee": {
-        "BetRivers": "-205",
-        "Caesars": "-195",
-        "PowerPlay": "-188",
-        "bet365": "-200",
-        "Sports Interaction": "-185"
-    },
-    "Hyder Amil": {
-        "BetRivers": "+163",
-        "Caesars": "+165",
-        "PowerPlay": "+162",
-        "bet365": "+150",
-        "Sports Interaction": "+150"
-    }
-},
-{
-    "Caolan Loughran": {
-        "BetRivers": "-215",
-        "Caesars": "-195",
-        "PowerPlay": "-188",
-        "bet365": "-200"
-    },
-    "Ramon Taveras": {
-        "BetRivers": "+170",
-        "Caesars": "+165",
-        "PowerPlay": "+162",
-        "bet365": "+150"
-    }
-},
-{
-    "Christian Leroy Duncan": {
-        "BetRivers": null,
-        "Caesars": null,
         "PowerPlay": "-125",
-        "bet365": null
+        "bet365": "-133",
+        "Sports Interaction": "-125"
     },
-    "Gregory Rodrigues": {
+    "Ivan Erslan": {
+        "BetRivers": "+107",
+        "Caesars": "+110",
+        "PowerPlay": "+100",
+        "bet365": "+105",
+        "Sports Interaction": "+105"
+    }
+},
+{
+    "Ciryl Gane": {
         "BetRivers": null,
         "Caesars": null,
-        "PowerPlay": "+100",
+        "PowerPlay": "-250",
+        "bet365": null
+    },
+    "Alexander Volkov": {
+        "BetRivers": null,
+        "Caesars": null,
+        "PowerPlay": "+200",
         "bet365": null
     }
 },
 {
-    "Cory Sandhagen": {
-        "BetRivers": null,
-        "Caesars": "-250",
-        "PowerPlay": "-250",
-        "bet365": "-250"
+    "Robert Whittaker": {
+        "BetRivers": "-205",
+        "Caesars": "-190",
+        "PowerPlay": null,
+        "bet365": null
     },
-    "Umar Nurmagomedov": {
+    "Khamzat Chimaev": {
+        "BetRivers": "+163",
+        "Caesars": "+160",
+        "PowerPlay": null,
+        "bet365": null
+    }
+},
+{
+    "Alex Pereira": {
+        "BetRivers": "-530",
+        "Caesars": null,
+        "PowerPlay": "-450",
+        "bet365": "-500"
+    },
+    "Khalil Rountree Jr.": {
+        "BetRivers": "-500",
+        "Caesars": null,
+        "PowerPlay": null,
+        "bet365": "+350"
+    }
+},
+{
+    "Ilia Topuria": {
         "BetRivers": null,
-        "Caesars": "+205",
-        "PowerPlay": "+200",
-        "bet365": "+188"
+        "Caesars": null,
+        "PowerPlay": "-250",
+        "bet365": null
+    },
+    "Max Holloway": {
+        "BetRivers": null,
+        "Caesars": null,
+        "PowerPlay": "+180",
+        "bet365": null
+    }
+},
+{
+    "Ludovit Klein": {
+        "BetRivers": "-770",
+        "Caesars": "-800",
+        "PowerPlay": "-700",
+        "bet365": "-769",
+        "Sports Interaction": "-800"
+    },
+    "Roosevelt Roberts": {
+        "BetRivers": "+525",
+        "Caesars": "+550",
+        "PowerPlay": "+500",
+        "bet365": "+450",
+        "Sports Interaction": "+550"
     }
 }
 ]
